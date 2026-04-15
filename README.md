@@ -1,4 +1,4 @@
-# 🚢 Titanic Survival EDA
+# Titanic Survival EDA
 
 ## Overview
 Exploratory Data Analysis on the Titanic dataset to uncover 
